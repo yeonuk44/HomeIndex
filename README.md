@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Kim%20Yeonuk%20😉)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Chamber%20Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Visit%20my%20blog%20or%20Any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 ![Yeonuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonuk44&show_icons=true&theme=cobalt)
 # 💪Skills
@@ -23,5 +23,4 @@
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yeonuk44.github.io/)](https://yeonuk44.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
 </div>
