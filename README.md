@@ -23,4 +23,5 @@
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yeonuk44.github.io/)](https://yeonuk44.github.io/)
+<a href="mailto:yeonuk44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonuk44@gmail.com"/></a>
 </div>
