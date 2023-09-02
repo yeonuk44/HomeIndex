@@ -1,6 +1,6 @@
 # Kim Yeonuk 😉
 
-![Yeonuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+![Yeonuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonuk44&show_icons=true&theme=cobalt)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
