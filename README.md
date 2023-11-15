@@ -2,7 +2,6 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Chamber%20Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Visit%20my%20blog%20or%20Any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
-![Yeonuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonuk44&show_icons=true&theme=cobalt)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
